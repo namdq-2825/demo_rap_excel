@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -41,3 +42,7 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# demo_rap_excel
+demo import from excel
+>>>>>>> 8630347 (Initial commit)
